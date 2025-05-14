@@ -52,17 +52,9 @@ An **audio alert** is triggered to wake the driver.
 
 ---
 
-## 🧰 How It Works
-
-```text
-[ Webcam Feed ] → [ YOLOv5 Eye + Mouth Detection ]
-                  ↓
-        [ Eye Closure / Yawning Detection ]
-                  ↓
-           [ Alert Trigger (Audio) ]
 
 
-# Demo Video
+## Demo Video
 
 https://github.com/rishswish/Drowsiness-Detection-Important-Files/assets/89961075/9b276f34-9ccf-4a89-a863-5ee4e56af88b
 
